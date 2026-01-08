@@ -1,2 +1,3 @@
 # Project
-6th Semester Project
+Major project
+
